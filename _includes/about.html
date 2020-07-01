@@ -14,12 +14,12 @@
     <p>{{ site.education }}</p>
 </div>
 <div class="user">
-    <div class='tech'>
+    <div class='tech card23'>
         <h2>UW - Madison</h2>
         <p>Computer Science &amp; Data Sicence &amp; Mathematics</p>
         <p>2018 - 2022 | GPA: 3.99 | Hilldale Research Fellowship</p>
     </div>
-    <div class='tech'>
+    <div class='tech card23'>
         <h2>Extras</h2>
         <p>CS231n</p>
         <p>Deep Learning Specialization</p>
@@ -35,17 +35,7 @@
     <p>{{ site.expertise }}</p>
 </div>
 <div class="user">
-	<div class="tech">
-		<h2>Data Science</h2>
-		<!-- pandas -->
-		<span class="iconify" data-icon="simple-icons:pandas" data-inline="false"></span>
-		<!-- tensorflow -->
-		<span class="iconify" data-icon="logos-tensorflow" data-inline="false"></span>
-		<!-- mysql -->
-		<span class="iconify" data-icon="logos:mysql" data-inline="false"></span>
-		<p>{{ site.ds }}</p>
-	</div>
-	<div class="tech">
+	<div class="tech card23">
 		<h2>Programming</h2>
 		<!-- python -->
 		<span class="iconify" data-icon="logos:python" data-inline="false"></span>
@@ -55,7 +45,17 @@
 		<span class="iconify" data-icon="logos:javascript" data-inline="false"></span>
 		<p>{{ site.programming }}</p>
 	</div>
-	<div class="tech">
+	<div class="tech card23">
+		<h2>Data Science</h2>
+		<!-- pandas -->
+		<span class="iconify" data-icon="simple-icons:pandas" data-inline="false"></span>
+		<!-- tensorflow -->
+		<span class="iconify" data-icon="logos-tensorflow" data-inline="false"></span>
+		<!-- mysql -->
+		<span class="iconify" data-icon="logos:mysql" data-inline="false"></span>
+		<p>{{ site.ds }}</p>
+	</div>
+	<div class="tech card23">
 		<h2>Tools</h2>
 		<!-- git -->
 		<span class="iconify" data-icon="logos:git-icon" data-inline="false"></span>
@@ -74,15 +74,13 @@
     </h1>
 	<p>{{ site.project }}</p>
 </div>
-<div class='user'>
-    <div class='grid'>
-        {% assign ordered_projects = site.projects | sort:"order" %}
-        {% for p in ordered_projects %}
-            <div class="tech">
-                <h2><a href="{{ p.link }}" target="_blank">{{ p.title }}</a></h2>
-                <p>{{ p.desc }}</p>
-                <p class="skill">{{ p.skill }}</p>
-            </div>
-        {% endfor %}
-    </div>
+<div class='user wrap'>
+    {% assign ordered_projects = site.projects | sort:"order" %}
+    {% for p in ordered_projects %}
+        <div class="tech card">
+            <h2><a href="{{ p.link }}" target="_blank">{{ p.title }}</a></h2>
+            <p>{{ p.desc }}</p>
+            <p class="skill">{{ p.skill }}</p>
+        </div>
+    {% endfor %}
 </div>

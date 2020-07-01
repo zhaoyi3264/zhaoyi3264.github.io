@@ -5003,7 +5003,7 @@ sup {
 
 .tech svg {
 	width: 60px!important;
-	height: auto
+	height: 60px;
 }
 
 .svg-inline--fa.fa-w-16 {
@@ -5026,6 +5026,21 @@ h1:hover > a {
 .tech {
 	margin: 10px;
 	flex: 1 1 0
+}
+
+.card {
+    min-width: 45%;
+}
+
+.card23 {
+
+}
+
+@media (max-width: 650px) {
+    .card23 {
+        min-width: 50%;
+        max-width: 100%;
+    }
 }
 
 .tech img {
@@ -5066,12 +5081,18 @@ a:hover {
 	font-size: 16px
 }
 
+.wrap {
+    flex-wrap: wrap;
+}
+
+/*
 @media only screen and (min-width:768px) {
 	.user {
 		flex-wrap: nowrap;
 		font-size: 75px
 	}
 }
+*/
 
 .user-details {
 	text-align: left;

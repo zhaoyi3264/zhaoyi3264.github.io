@@ -23,7 +23,7 @@ education: I always feel like the more I learn, the less I know. While maintaini
 # Expertise
 expertise: I have developed a wide range of skills in software development, data science and machine learning. Machine learning is so far my favorite subject. Recently, I am learning RNNs and experimenting with different architectures such as <a href="https://colab.research.google.com/drive/1v74eDwOqQZ0rEVDwroEGWngMjU2er6U_?usp=sharing" target="_blank" title="A Colab notebook">Char-RNN</a>.
 
-ds: I am comfortable using most SciPy packages, Seaborn, TensorFlow, MySQL, and more. I don&apos;t know a lot of packages, but I mastered every package I learnt quite well!
+ds: I am comfortable using Pandas, Matplotlib, Seaborn, Tensorflow, scikit-learn, MySQL and more to deal with various kinds of data.
 programming: My main development languages are Python and Java, but I am also familiar with JavaScript, C, MATLAB.
 tools: Tools that I use the most are Git, Linux, and Jupyter. Meanwhile, I am learning Docker and AWS.
 
