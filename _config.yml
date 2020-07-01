@@ -15,17 +15,17 @@ linkedin: zhang-zhaoyi-15034a192
 github: zhaoyi3264
 
 # Bio
-bio: I am an ungraduate student at UW - Madison and an undergraduate researcher at <a href="https://solislemuslab.github.io/" target="_blank" title="Lab website">Solis-Lemus Lab</a>. My research projects mainly foucs on the applicaiton of machine learning and deep learning methods to raw DNA sequences. In my spare time, I enjoy <strong>programming, lifting weights, and solving Rubik&apos;s cubes</strong>. Check out my official speedcubing records <a href="https://www.worldcubeassociation.org/persons/2017ZHAN15" target="_blank" title="My WCA profile">here</a>.
+bio: I am an undergraduate student at UW - Madison and an undergraduate researcher at <a href="https://solislemuslab.github.io/" target="_blank" title="Lab website">Solis-Lemus Lab</a>. My research projects mainly foucs on the applicaiton of machine learning methods to DNA sequences. In my spare time, I enjoy <strong>programming, lifting weights, and <a href="https://www.worldcubeassociation.org/persons/2017ZHAN15" target="_blank" title="My official WCA records">solving Rubik&apos;s cubes</a></strong>.
 
 # Education
-education: I always feel like the more I learn, the less I know. While maintaining a good GPA at UW - Madison, I also take a few online courses in my spare time to explore the infinite possibilities of computer programming.
+education: I always feel like the more I learn, the less I know. While maintaining a good GPA at UW - Madison, I also take  courses on learning platforms or open courses from other universities to explore the infinite possibilities of computer programming.
 
 # Expertise
-expertise: I have developed a wide range of skills in software development, data science and machine learning. Machine learning is so far my favorite subject. Recently, I am learning RNNs and experimenting with different architectures such as <a href="https://colab.research.google.com/drive/1v74eDwOqQZ0rEVDwroEGWngMjU2er6U_?usp=sharing" target="_blank" title="A Colab notebook">Char-RNN</a>.
+expertise: I have developed a wide range of skills in data science, machine learning, and software development. Machine learning is so far my favorite subject. Recently, I am learning RNNs and experimenting with different architectures such as <a href="https://colab.research.google.com/drive/1v74eDwOqQZ0rEVDwroEGWngMjU2er6U_?usp=sharing" target="_blank" title="A Colab notebook">Char-RNN</a>.
 
-ds: I am comfortable using Pandas, Matplotlib, Seaborn, Tensorflow, scikit-learn, MySQL and more to deal with various kinds of data.
+ds: I feel comfortable working with various kinds of data using Pandas, Matplotlib, Seaborn, Tensorflow, scikit-learn, MySQL and more.
 programming: My main development languages are Python and Java, but I am also familiar with JavaScript, C, MATLAB.
-tools: Tools that I use the most are Git, Linux, and Jupyter. Meanwhile, I am learning Docker and AWS.
+tools: Tools that I mostly use are Git, Linux, and Jupyter. In addition, I am learning Docker and AWS.
 
 # Projects
 project: Here is a partial list of projects I built for classes, competitions, but mostly on my own time.
