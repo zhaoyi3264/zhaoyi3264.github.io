@@ -15,17 +15,19 @@ linkedin: zhang-zhaoyi
 github: zhaoyi3264
 
 # Bio
-bio: I am an undergraduate student at UW - Madison and an undergraduate researcher at <a href="https://solislemuslab.github.io/" target="_blank" title="Lab website">Solis-Lemus Lab</a>. My research projects mainly foucs on the applicaiton of machine learning methods to DNA sequences. In my spare time, I enjoy <strong>programming, lifting weights, and <a href="https://www.worldcubeassociation.org/persons/2017ZHAN15" target="_blank" title="My official WCA records">solving Rubik&apos;s cubes</a></strong>.
+bio: |
+  I am a senior studying computer science, data science, and mathematics at the University of Wisconsin - Madison. I became interested in programming and computer science when I first learned how to program a LEGO robot in high school. Now, at the university, this passion remains with me. During my junior year, I developed a strong interest in backend engineering, which motivates me to learn major backend frameworks in three programming languages (Java, Python, and Node.js) and other popular technologies. I am sure these skills can help me succeed after entering the software development industry.
+# In my spare time, I enjoy <strong>programming, lifting weights, and <a href="https://www.worldcubeassociation.org/persons/2017ZHAN15" target="_blank" title="My official WCA records">solving Rubik&apos;s cubes</a></strong>.
 
 # Education
 education: I always feel like the more I learn, the less I know. While maintaining a good GPA at UW - Madison, I also take  courses on learning platforms or open courses from other universities to explore the infinite possibilities of computer programming.
 
 # Expertise
-expertise: I have developed a wide range of skills in data science, machine learning, and software development. Machine learning is so far my favorite subject. Recently, I am learning RNNs and experimenting with different architectures such as <a href="https://colab.research.google.com/drive/1v74eDwOqQZ0rEVDwroEGWngMjU2er6U_?usp=sharing" target="_blank" title="A Colab notebook">Char-RNN</a>.
+expertise: I have developed a wide range of skills in software development throughout my university education and internships.
 
-ds: I feel comfortable working with various kinds of data using Pandas, Matplotlib, Seaborn, Tensorflow, scikit-learn, MySQL and more.
-programming: My main development languages are Python and Java, but I am also familiar with JavaScript, C, MATLAB.
-tools: Tools that I mostly use are Git, Linux, Docker, and Jupyter. In addition, I am learning and AWS.
+programming: My main development languages are Java and Python, but I am also familiar with Node.js, C, MATLAB, and R.
+frameworks: I am comfortable working with various kinds backend frameworks such as Spring, Hibernate, Flask, Express.js. At the same time, I also know a few frontend frameworks such as Thymeleaf,‌ ‌Jinja,‌ ‌Bootstrap,‌ ‌React.js‌ so that I can build simple websites.
+tools: I have a lot of experience with MySQL, and some exposure to MongoDB. Developer tools that I use frequently are Git, Linux, Insomnia,‌ ‌Maven‌, and Docker. In addition, I am currently learning AWS.
 
 # Projects
 project: Here is a partial list of projects I built for classes, competitions, but mostly on my own time.
