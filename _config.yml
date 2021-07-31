@@ -37,6 +37,6 @@ collections:
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-203689793-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
